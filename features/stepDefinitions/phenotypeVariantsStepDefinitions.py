@@ -4,5 +4,5 @@ from Framework.pages.dashboardPage import Dashboard
 
 
 dashboard = Dashboard()
-#this is a comments
+
 @step('I click on \[(.*)\]')
