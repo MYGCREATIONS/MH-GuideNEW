@@ -1,0 +1,1 @@
+print("bla bla bla is added to new setting file")
